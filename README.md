@@ -7,8 +7,9 @@ One of the main activities of the unit is to promote the incorporation of proteo
 
 One of the great challenges of biomedical research and precision medicine is the description of the mechanisms underlying pathological processes and, based on this, to define measurable biomarkers in a standardized way and new therapeutic targets, generally of a protein nature
 
-For more information visit our website: 
-[IJC-Website]([http://example.com](https://www.carrerasresearch.org/es)) 
+For more information visit our website:
+
+[IJC](https://www.carrerasresearch.org/en/proteomics-unit_130385)
 [Proteomics Unit](https://www.carrerasresearch.org/en/proteomics-unit_130385)
 
 
